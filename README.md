@@ -1,2 +1,2 @@
-# python
-College work on Python - Machine Learning, etc
+# Python
+College work using Python - Basic Programs & Machine Learning, etc
